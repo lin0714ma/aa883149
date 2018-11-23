@@ -1760,6 +1760,29 @@ body {
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/fb-img-1521093553099-1440x1080.jpg");
 }
+.cid-rae3LTFoAi {
+  background: #ffffff;
+}
+.cid-rae3LTFoAi .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rae3LTFoAi .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rae3LTFoAi figcaption {
+  position: relative;
+}
+.cid-rae3LTFoAi figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rae3LTFoAi .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
