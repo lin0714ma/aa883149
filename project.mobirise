@@ -40,7 +40,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "首頁",
+        "title": "home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
