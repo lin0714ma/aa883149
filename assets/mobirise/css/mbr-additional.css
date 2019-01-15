@@ -1376,119 +1376,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-rfdVIYVSLf {
-  background: #ffffff;
-}
-.cid-rfdVIYVSLf .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rfdVIYVSLf .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rfdVIYVSLf figcaption {
-  position: relative;
-}
-.cid-rfdVIYVSLf figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rfdVIYVSLf .image-block {
-    width: 100% !important;
-  }
-}
-.cid-rfdVMlRiNj {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rfdVMlRiNj .image-block {
-  margin: auto;
-}
-.cid-rfdVMlRiNj figcaption {
-  position: relative;
-}
-.cid-rfdVMlRiNj figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rfdVMlRiNj .image-block {
-    width: 100% !important;
-  }
-}
-.cid-rfdVUnnoMd {
-  background: #ffffff;
-}
-.cid-rfdVUnnoMd .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rfdVUnnoMd .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rfdVUnnoMd figcaption {
-  position: relative;
-}
-.cid-rfdVUnnoMd figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rfdVUnnoMd .image-block {
-    width: 100% !important;
-  }
-}
-.cid-rfdVV6qA8u {
-  background: #ffffff;
-}
-.cid-rfdVV6qA8u .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rfdVV6qA8u .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rfdVV6qA8u figcaption {
-  position: relative;
-}
-.cid-rfdVV6qA8u figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rfdVV6qA8u .image-block {
-    width: 100% !important;
-  }
-}
-.cid-rfdWCKtEdn {
-  background: #ffffff;
-}
-.cid-rfdWCKtEdn .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rfdWCKtEdn .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rfdWCKtEdn figcaption {
-  position: relative;
-}
-.cid-rfdWCKtEdn figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rfdWCKtEdn .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rfe1TMfC1L {
   background: #ffffff;
 }
@@ -1855,5 +1742,118 @@ body {
   .cid-rfe1OgtiB5 .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
+  }
+}
+.cid-rfdVIYVSLf {
+  background: #ffffff;
+}
+.cid-rfdVIYVSLf .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rfdVIYVSLf .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rfdVIYVSLf figcaption {
+  position: relative;
+}
+.cid-rfdVIYVSLf figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rfdVIYVSLf .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rfdVMlRiNj {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rfdVMlRiNj .image-block {
+  margin: auto;
+}
+.cid-rfdVMlRiNj figcaption {
+  position: relative;
+}
+.cid-rfdVMlRiNj figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rfdVMlRiNj .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rfdVUnnoMd {
+  background: #ffffff;
+}
+.cid-rfdVUnnoMd .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rfdVUnnoMd .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rfdVUnnoMd figcaption {
+  position: relative;
+}
+.cid-rfdVUnnoMd figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rfdVUnnoMd .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rfdVV6qA8u {
+  background: #ffffff;
+}
+.cid-rfdVV6qA8u .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rfdVV6qA8u .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rfdVV6qA8u figcaption {
+  position: relative;
+}
+.cid-rfdVV6qA8u figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rfdVV6qA8u .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rfdWCKtEdn {
+  background: #ffffff;
+}
+.cid-rfdWCKtEdn .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rfdWCKtEdn .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rfdWCKtEdn figcaption {
+  position: relative;
+}
+.cid-rfdWCKtEdn figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rfdWCKtEdn .image-block {
+    width: 100% !important;
   }
 }
